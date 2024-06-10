@@ -6,3 +6,5 @@
   npm i --legacy-peer-deps
 ```
 ## Deploy
+
+https://chat-app-c0aff.web.app/
