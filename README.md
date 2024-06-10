@@ -7,4 +7,4 @@
 ```
 ## Deploy
 
-https://chat-app-c0aff.web.app/
+https://chat-app-c0aff.web.app/chat
